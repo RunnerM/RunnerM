@@ -1,4 +1,4 @@
-## Marton Pentek
+## /runnerm
 - 👋 Hi, I’m Marton Pentek I am an enthusisatic software developer! 
 - 👀 I’m interested in backend development and embedded software.
 - 🌱 I’m currently studying at VIA University College persuing my software engineering degree as well as growing my knowledge at Keyhole. 
