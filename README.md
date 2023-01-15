@@ -3,8 +3,12 @@
 - 👀 I’m interested in backend development and embedded software.
 - 🌱 I’m currently studying at VIA University College persuing my software engineering degree as well as growing my knowledge at Keyhole. 
 - 💞️ I’m looking to collaborate on embedded projects. 
+<details>
+<summary>
 
-## Tech I work with
+### Tech I work with 
+</summary>
+
 ### Languages:
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,cs,py,java,go,postgres,mysql,arduino)](https://skillicons.dev)
 ### Frameworks
@@ -14,8 +18,12 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,git,vscode,idea,androidstudio,cmake,gradle,maven)](https://skillicons.dev)
 
+</details>
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>
+  
+  ### Github Stats ⚡
+  </summary>
   
   [![RunnerM's GitHub stats](https://github-readme-stats.vercel.app/api?username=RunnerM)](https://github.com/anuraghazra/github-readme-stats)
   
