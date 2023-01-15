@@ -16,7 +16,7 @@
 ### Cloud
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,azure,heroku)](https://skillicons.dev)
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,git,vscode,idea,androidstudio,cmake,gradle,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,bash,vscode,idea,androidstudio,cmake,gradle,maven)](https://skillicons.dev)
 
 </details>
 <details>
