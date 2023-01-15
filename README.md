@@ -25,7 +25,11 @@
   ### Github Stats ⚡
   </summary>
   
-  [![RunnerM's GitHub stats](https://github-readme-stats.vercel.app/api?username=RunnerM)](https://github.com/anuraghazra/github-readme-stats)
+  <div>
+    
+  [![RunnerM's GitHub stats](https://github-readme-stats-sage-alpha.vercel.app/api?username=RunnerM&show_icons=true&theme=transparent&hide=contribs)](https://github.com/runnnerm/github-readme-stats)  [![Top Langs](https://github-readme-stats-sage-alpha.vercel.app/api/top-langs/?username=RunnerM&layout=compact&theme=transparent)](https://github.com/runnerm/github-readme-stats)
+  
+  </div>
   
 </details>
 
