@@ -9,13 +9,13 @@
 </summary>
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,cs,py,java,go,postgres,mysql,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,cs,py,java,go,postgres,mysql,redis,arduino)](https://skillicons.dev)
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=spring,dotnet,ros,bootstrap)](https://skillicons.dev)
 ### Cloud
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,azure,heroku)](https://skillicons.dev)
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,git,bash,vscode,idea,androidstudio,cmake,gradle,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,bash,vscode,idea,androidstudio,cmake,gradle,maven,postman)](https://skillicons.dev)
 </details>
 
 <details>
